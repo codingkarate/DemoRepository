@@ -1,0 +1,6 @@
+This is version 1 of my project master 
+I want this to commit 
+changed by abm
+this is changed now
+hi helo
+this is from master
